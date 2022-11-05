@@ -12,9 +12,9 @@ public class NonPrimitive {
 
     Boolean objectiveBoolean = false;
 
-        System.out.println( integer.doubleValue());
+    System.out.println( integer.doubleValue());
 
 
-        //TODO declare 2 variables each type and print it.
+    //TODO declare 2 variables each type and print it.
     }
 }
